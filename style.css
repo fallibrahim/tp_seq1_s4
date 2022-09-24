@@ -1,0 +1,21 @@
+main
+{
+    width:15%; 
+}
+fieldset
+{
+    border: 2px solid rgb(218, 55, 55);
+}
+a
+{
+    color:blueviolet;
+}
+.vert
+{
+    color:green;
+}
+div.disconn
+{
+    color:blue;
+}
+
